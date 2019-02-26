@@ -1,0 +1,31 @@
+C:\USERS\KABUSH\DOCUMENTS\VISUAL STUDIO 2012\PROJECTS\CPSC.2377.HMWKS.SPRING.2015\HMWK.3.ASSIGNMENT\TEMP\BLOCK.OBJ
+C:\USERS\KABUSH\DOCUMENTS\VISUAL STUDIO 2012\PROJECTS\CPSC.2377.HMWKS.SPRING.2015\HMWK.3.ASSIGNMENT\TEMP\ENGINE.OBJ
+C:\USERS\KABUSH\DOCUMENTS\VISUAL STUDIO 2012\PROJECTS\CPSC.2377.HMWKS.SPRING.2015\HMWK.3.ASSIGNMENT\TEMP\MEGAMAN.OBJ
+C:\USERS\KABUSH\DOCUMENTS\VISUAL STUDIO 2012\PROJECTS\CPSC.2377.HMWKS.SPRING.2015\HMWK.3.ASSIGNMENT\TEMP\VC110.PDB
+C:\USERS\KABUSH\DOCUMENTS\VISUAL STUDIO 2012\PROJECTS\CPSC.2377.HMWKS.SPRING.2015\HMWK.3.ASSIGNMENT\TEMP\GUI.OBJ
+C:\USERS\KABUSH\DOCUMENTS\VISUAL STUDIO 2012\PROJECTS\CPSC.2377.HMWKS.SPRING.2015\HMWK.3.ASSIGNMENT\TEMP\TEXTURE.OBJ
+C:\USERS\KABUSH\DOCUMENTS\VISUAL STUDIO 2012\PROJECTS\CPSC.2377.HMWKS.SPRING.2015\HMWK.3.ASSIGNMENT\TEMP\TIMER.OBJ
+C:\USERS\KABUSH\DOCUMENTS\VISUAL STUDIO 2012\PROJECTS\CPSC.2377.HMWKS.SPRING.2015\HMWK.3.ASSIGNMENT\TEMP\HMWK.3.OBJ
+C:\USERS\KABUSH\DOCUMENTS\VISUAL STUDIO 2012\PROJECTS\CPSC.2377.HMWKS.SPRING.2015\HMWK.3.ASSIGNMENT\GAME\HMWK.3.ASSIGNMENT.ILK
+C:\USERS\KABUSH\DOCUMENTS\VISUAL STUDIO 2012\PROJECTS\CPSC.2377.HMWKS.SPRING.2015\HMWK.3.ASSIGNMENT\GAME\HMWK.3.ASSIGNMENT.EXE
+C:\USERS\KABUSH\DOCUMENTS\VISUAL STUDIO 2012\PROJECTS\CPSC.2377.HMWKS.SPRING.2015\HMWK.3.ASSIGNMENT\GAME\HMWK.3.ASSIGNMENT.PDB
+C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.3.Assignment\Temp\Block.obj
+C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.3.Assignment\Temp\engine.obj
+C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.3.Assignment\Temp\MegaMan.obj
+C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.3.Assignment\Temp\Texture.obj
+C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.3.Assignment\Temp\Timer.obj
+C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.3.Assignment\Temp\cl.command.1.tlog
+C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.3.Assignment\Temp\CL.read.1.tlog
+C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.3.Assignment\Temp\CL.write.1.tlog
+C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.3.Assignment\Temp\link-cvtres.read.1.tlog
+C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.3.Assignment\Temp\link-cvtres.write.1.tlog
+C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.3.Assignment\Temp\link-rc.read.1.tlog
+C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.3.Assignment\Temp\link-rc.write.1.tlog
+C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.3.Assignment\Temp\link.command.1.tlog
+C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.3.Assignment\Temp\link.read.1.tlog
+C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.3.Assignment\Temp\link.write.1.tlog
+C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.3.Assignment\Temp\vc110.idb
+C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.3.Assignment\Temp\vc110.pdb
+C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.3.Assignment\Game\Hmwk.3.Assignment.pdb
+C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.3.Assignment\Game\Hmwk.3.Assignment.exe
+C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.3.Assignment\Game\Hmwk.3.Assignment.ilk

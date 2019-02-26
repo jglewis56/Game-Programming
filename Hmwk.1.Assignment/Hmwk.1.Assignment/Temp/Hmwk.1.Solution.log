@@ -1,0 +1,30 @@
+﻿  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\CPSC.2377.Hmwks.Spring.2015\Hmwk.1.Solution\SDL2\dlls\libfreetype-6.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\CPSC.2377.Hmwks.Spring.2015\Hmwk.1.Solution\SDL2\dlls\libjpeg-9.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\CPSC.2377.Hmwks.Spring.2015\Hmwk.1.Solution\SDL2\dlls\libpng16-16.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\CPSC.2377.Hmwks.Spring.2015\Hmwk.1.Solution\SDL2\dlls\libtiff-5.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\CPSC.2377.Hmwks.Spring.2015\Hmwk.1.Solution\SDL2\dlls\libwebp-4.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\CPSC.2377.Hmwks.Spring.2015\Hmwk.1.Solution\SDL2\dlls\SDL2.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\CPSC.2377.Hmwks.Spring.2015\Hmwk.1.Solution\SDL2\dlls\SDL2_image.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\CPSC.2377.Hmwks.Spring.2015\Hmwk.1.Solution\SDL2\dlls\SDL2_ttf.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\CPSC.2377.Hmwks.Spring.2015\Hmwk.1.Solution\SDL2\dlls\zlib1.dll
+          9 file(s) copied.
+  engine.cpp
+  Hmwk.1.Solution.vcxproj -> C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\CPSC.2377.Hmwks.Spring.2015\Hmwk.1.Solution\Game\Hmwk.1.Solution.exe
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\CPSC.2377.Hmwks.Spring.2015\Hmwk.1.Solution\libfreetype-6.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\CPSC.2377.Hmwks.Spring.2015\Hmwk.1.Solution\libjpeg-9.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\CPSC.2377.Hmwks.Spring.2015\Hmwk.1.Solution\libpng16-16.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\CPSC.2377.Hmwks.Spring.2015\Hmwk.1.Solution\libtiff-5.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\CPSC.2377.Hmwks.Spring.2015\Hmwk.1.Solution\libwebp-4.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\CPSC.2377.Hmwks.Spring.2015\Hmwk.1.Solution\SDL2.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\CPSC.2377.Hmwks.Spring.2015\Hmwk.1.Solution\SDL2_image.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\CPSC.2377.Hmwks.Spring.2015\Hmwk.1.Solution\SDL2_ttf.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\CPSC.2377.Hmwks.Spring.2015\Hmwk.1.Solution\zlib1.dll
+          9 file(s) moved.
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\CPSC.2377.Hmwks.Spring.2015\Hmwk.1.Solution\Assets\Config\game.txt -> C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\CPSC.2377.Hmwks.Spring.2015\Hmwk.1.Solution\Game\Assets\Config\game.txt
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\CPSC.2377.Hmwks.Spring.2015\Hmwk.1.Solution\Assets\Images\block.png -> C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\CPSC.2377.Hmwks.Spring.2015\Hmwk.1.Solution\Game\Assets\Images\block.png
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\CPSC.2377.Hmwks.Spring.2015\Hmwk.1.Solution\Assets\Images\megaman.png -> C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\CPSC.2377.Hmwks.Spring.2015\Hmwk.1.Solution\Game\Assets\Images\megaman.png
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\CPSC.2377.Hmwks.Spring.2015\Hmwk.1.Solution\Assets\Images\top_block.png -> C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\CPSC.2377.Hmwks.Spring.2015\Hmwk.1.Solution\Game\Assets\Images\top_block.png
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\CPSC.2377.Hmwks.Spring.2015\Hmwk.1.Solution\Assets\Images\Zelda2S1.png -> C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\CPSC.2377.Hmwks.Spring.2015\Hmwk.1.Solution\Game\Assets\Images\Zelda2S1.png
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\CPSC.2377.Hmwks.Spring.2015\Hmwk.1.Solution\Assets\Images\Zelda2S2.png -> C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\CPSC.2377.Hmwks.Spring.2015\Hmwk.1.Solution\Game\Assets\Images\Zelda2S2.png
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\CPSC.2377.Hmwks.Spring.2015\Hmwk.1.Solution\Assets\Images\Zelda2S3.png -> C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\CPSC.2377.Hmwks.Spring.2015\Hmwk.1.Solution\Game\Assets\Images\Zelda2S3.png
+  7 File(s) copied

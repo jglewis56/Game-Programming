@@ -1,0 +1,36 @@
+﻿  C:\Users\Dalalways72\Desktop\Hmwk.5.Assignment.correct\Hmwk.5.Assignment.Spring.2016\SDL2\dlls\libfreetype-6.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.5.Assignment.correct\Hmwk.5.Assignment.Spring.2016\SDL2\dlls\libjpeg-9.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.5.Assignment.correct\Hmwk.5.Assignment.Spring.2016\SDL2\dlls\libpng16-16.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.5.Assignment.correct\Hmwk.5.Assignment.Spring.2016\SDL2\dlls\libtiff-5.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.5.Assignment.correct\Hmwk.5.Assignment.Spring.2016\SDL2\dlls\libwebp-4.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.5.Assignment.correct\Hmwk.5.Assignment.Spring.2016\SDL2\dlls\SDL2.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.5.Assignment.correct\Hmwk.5.Assignment.Spring.2016\SDL2\dlls\SDL2_image.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.5.Assignment.correct\Hmwk.5.Assignment.Spring.2016\SDL2\dlls\SDL2_ttf.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.5.Assignment.correct\Hmwk.5.Assignment.Spring.2016\SDL2\dlls\zlib1.dll
+          9 file(s) copied.
+  Link.cpp
+c:\users\dalalways72\desktop\hmwk.5.assignment.correct\hmwk.5.assignment.spring.2016\source\link.cpp(20): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Engine.cpp
+c:\users\dalalways72\desktop\hmwk.5.assignment.correct\hmwk.5.assignment.spring.2016\source\engine.cpp(122): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+c:\users\dalalways72\desktop\hmwk.5.assignment.correct\hmwk.5.assignment.spring.2016\source\engine.cpp(134): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Hmwk.5.Assignment.Spring.2016.vcxproj -> C:\Users\Dalalways72\Desktop\Hmwk.5.Assignment.correct\Hmwk.5.Assignment.Spring.2016\Game\Hmwk.5.Assignment.Spring.2016.exe
+  C:\Users\Dalalways72\Desktop\Hmwk.5.Assignment.correct\Hmwk.5.Assignment.Spring.2016\libfreetype-6.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.5.Assignment.correct\Hmwk.5.Assignment.Spring.2016\libjpeg-9.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.5.Assignment.correct\Hmwk.5.Assignment.Spring.2016\libpng16-16.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.5.Assignment.correct\Hmwk.5.Assignment.Spring.2016\libtiff-5.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.5.Assignment.correct\Hmwk.5.Assignment.Spring.2016\libwebp-4.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.5.Assignment.correct\Hmwk.5.Assignment.Spring.2016\SDL2.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.5.Assignment.correct\Hmwk.5.Assignment.Spring.2016\SDL2_image.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.5.Assignment.correct\Hmwk.5.Assignment.Spring.2016\SDL2_ttf.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.5.Assignment.correct\Hmwk.5.Assignment.Spring.2016\zlib1.dll
+          9 file(s) moved.
+  C:\Users\Dalalways72\Desktop\Hmwk.5.Assignment.correct\Hmwk.5.Assignment.Spring.2016\Assets\Config\animation.txt -> C:\Users\Dalalways72\Desktop\Hmwk.5.Assignment.correct\Hmwk.5.Assignment.Spring.2016\Game\Assets\Config\animation.txt
+  C:\Users\Dalalways72\Desktop\Hmwk.5.Assignment.correct\Hmwk.5.Assignment.Spring.2016\Assets\Config\level.txt -> C:\Users\Dalalways72\Desktop\Hmwk.5.Assignment.correct\Hmwk.5.Assignment.Spring.2016\Game\Assets\Config\level.txt
+  C:\Users\Dalalways72\Desktop\Hmwk.5.Assignment.correct\Hmwk.5.Assignment.Spring.2016\Assets\Config\levelEC.txt -> C:\Users\Dalalways72\Desktop\Hmwk.5.Assignment.correct\Hmwk.5.Assignment.Spring.2016\Game\Assets\Config\levelEC.txt
+  C:\Users\Dalalways72\Desktop\Hmwk.5.Assignment.correct\Hmwk.5.Assignment.Spring.2016\Assets\Fonts\impact.ttf -> C:\Users\Dalalways72\Desktop\Hmwk.5.Assignment.correct\Hmwk.5.Assignment.Spring.2016\Game\Assets\Fonts\impact.ttf
+  C:\Users\Dalalways72\Desktop\Hmwk.5.Assignment.correct\Hmwk.5.Assignment.Spring.2016\Assets\Images\block.png -> C:\Users\Dalalways72\Desktop\Hmwk.5.Assignment.correct\Hmwk.5.Assignment.Spring.2016\Game\Assets\Images\block.png
+  C:\Users\Dalalways72\Desktop\Hmwk.5.Assignment.correct\Hmwk.5.Assignment.Spring.2016\Assets\Images\deeler.png -> C:\Users\Dalalways72\Desktop\Hmwk.5.Assignment.correct\Hmwk.5.Assignment.Spring.2016\Game\Assets\Images\deeler.png
+  C:\Users\Dalalways72\Desktop\Hmwk.5.Assignment.correct\Hmwk.5.Assignment.Spring.2016\Assets\Images\elevator.png -> C:\Users\Dalalways72\Desktop\Hmwk.5.Assignment.correct\Hmwk.5.Assignment.Spring.2016\Game\Assets\Images\elevator.png
+  C:\Users\Dalalways72\Desktop\Hmwk.5.Assignment.correct\Hmwk.5.Assignment.Spring.2016\Assets\Images\link.png -> C:\Users\Dalalways72\Desktop\Hmwk.5.Assignment.correct\Hmwk.5.Assignment.Spring.2016\Game\Assets\Images\link.png
+  8 File(s) copied

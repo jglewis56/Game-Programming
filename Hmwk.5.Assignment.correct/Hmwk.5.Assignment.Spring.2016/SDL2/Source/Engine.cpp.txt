@@ -1,0 +1,135 @@
+//System Headers
+#include <fstream>
+#include <string>
+#include <iostream>
+
+//Game Headers
+#include "constants.h"
+#include "Engine.h"
+#include "Object.h"
+#include "Link.h"
+#include "Block.h"
+#include "Deeler.h"
+#include "Elevator.h"
+
+using namespace std;
+Engine::Engine()
+{
+	Object* tmpObject = NULL;
+	fstream fin;
+	int objectID;
+	int positionX;
+	int positionY;
+	fin.open("Assets/Config/levelEC.txt", ios::in);
+	while (!fin.eof())
+	{
+		fin >> objectID >> positionX >> positionY;
+		switch (objectID)
+		{
+		case DEELER:
+			tmpObject = new Deeler(positionX, positionY, 0);
+			break;
+		case LINK:
+			tmpObject = new Link(positionX, positionY, 0);
+			break;
+		case BLOCK:
+			tmpObject = new Block(positionX, positionY, 0);
+			break;
+		}
+		objects.push_back(tmpObject);
+	}
+}
+
+Object* Engine::getObject(int index)
+{
+	return(objects[index]);
+}
+int Engine::getNumObjects()
+{
+	return(objects.size());
+}
+bool Engine::getGameOver()
+{
+	return(gameOver);
+}
+bool Engine::getGameWon()
+{
+	return(gameWon);
+}
+
+void Engine::changeGameState(LK_TRANSITION command)
+{
+	
+	{
+		if (!gameOver)
+		{
+			//------------------
+			//Update all objects
+			//------------------
+			for (auto object : objects)
+			{
+				object->update(command, objects);
+			}
+			//--------------------
+			// Implement Scrolling
+			//--------------------
+			//Find the Link pointer
+			Object* link = NULL;
+			for (int i = 0;i<getNumObjects();i++)
+			{
+				Object* object = getObject(i);
+				if (object->getObjectID() == LINK)
+				{
+					link = object;
+				}
+			}
+			//Scroll the game objects (compare x-position to Link)
+			if (link->getPosX() > SCREEN_WIDTH / 2)
+			{
+				link->setPosX(SCREEN_WIDTH / 2);
+
+				//Scroll each object individually
+				for (int i = 0;i<getNumObjects();i++)
+				{
+					Object* object = getObject(i);
+					if (object->getObjectID() == BLOCK || object->getObjectID() == DEELER)
+					{
+						object->setPosX(object->getPosX() - LK_RUN_SPEED);
+					}
+				}
+			}
+			//--------------------
+			// Detect end-of-game
+			//--------------------
+			//Find Deeler and detect collision with Link
+			for (int i = 0;i<getNumObjects();i++)
+			{
+				Object* object = getObject(i);
+				if (object->getObjectID() == DEELER)
+				{
+					//Find center of link
+					int linkLeftX = link->plotX();
+					int linkTopY = link->plotY();
+					int linkRightX = link->plotX() + LK_SPRITE_WIDTH;
+					int linkBottomY = link->plotY() + LK_SPRITE_HEIGHT;
+					int deelerLeftX = object->plotX();
+					int deelerTopY = object->plotY();
+					int deelerRightX = object->plotX() + DEELER_SPRITE_WIDTH;
+					int deelerBottomY = object->plotY() + DEELER_SPRITE_HEIGHT;
+					//Detect link collision with Deeler
+					if (
+						((linkRightX > deelerLeftX &&
+							linkRightX < deelerRightX) ||
+							(linkLeftX < deelerRightX &&
+								linkLeftX > deelerLeftX))
+						&&
+						linkTopY < deelerBottomY
+						)
+					{
+						gameOver = true;
+					}
+				}
+			}
+		}
+	}
+}

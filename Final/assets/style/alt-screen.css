@@ -1,0 +1,150 @@
+/* ----This is a comment -----*/
+
+* {
+    margin:0;
+    padding:0;
+}
+
+body{
+background-color: #c0c0c0;
+font-family: Verdana, Arial, sans-serif; 
+font-size: 100%; /* Base Font Size is 16px */  
+line-height: 1.4em;    
+}
+
+#container{
+width:920px;
+background-color: #ffffff;
+margin-left:auto;
+margin-right:auto;
+margin-top:20px;
+margin-bottom:20px;
+margin: 20px auto 20px auto;    
+/*Shorthand T,R,B,L */
+margin: 20px auto;    
+/*Shorthand TB,RL */   
+border-style: solid;
+border-width: 10px;
+border-color:#DCDCDC;       
+/*Shorthand*/      
+border: 10px solid #DCDCDC;  
+}
+
+#header{
+height:100px;
+background-color:#2D5B4E;
+text-align:center;
+padding-top:40px;
+color:ghostwhite;
+margin-bottom:20px;    
+}
+
+#content{
+width:660px;
+float:left;  
+margin-left:20px;  
+}
+
+#sidebar{
+width:200px;
+float:left;     
+margin-left:20px;    
+}
+
+#footer{
+clear:both;
+}
+
+/*----links----*/
+
+a:link{
+color:#2D5B4E;
+}
+a:visited{
+color:#2D5B4E;
+}
+a:hover{
+text-decoration:none;
+}
+a:active{}
+
+#footer a:link{
+color:#fff;
+}
+#footer a:visited{
+color:#fff;
+}
+#footer a:hover{
+text-decoration:none;
+}
+#footer a:active{}
+
+
+/*----Typography----*/
+
+h2, h3, h4, h5 {
+font-family: Georgia, Times, 'Times New Roman', serif;
+font-weight: normal;
+margin-top:5px;
+margin-bottom:15px;    
+color:#2D5B4E;    
+}
+
+#content p, #content ul, #content ol, #content dl, #content hr, #content blockquote, table{
+margin-top:5px;
+margin-bottom:15px;    
+}
+
+#content ul, #content ol{
+margin-left:30px;  
+}
+
+#content dt {font-weight: bold}
+#content dd{font-style:italic;}
+
+dd + dt{margin-top:20px}
+
+table{
+width:100%;
+border:1px solid #c0c0c0;    
+}
+tr:nth-child(even){background-color:#f2f2f2}
+tr:hover{background-color:#ccc}
+th{
+background-color:#2D5B4E;
+color:#fff;   
+border:1px solid #c0c0c0;  
+padding:10px;    
+}
+td{    
+    border:1px solid #c0c0c0; 
+    padding:10px;
+}
+
+#footer {
+background-color:#2D5B4E;
+padding:10px 20px;
+}
+
+#footer h6{color:white}
+
+/*-----Navigation-----*/
+
+ul#main-nav {}
+ul#main-nav li {
+    list-style:none;
+    margin:0 0 5px 0;}
+ul#main-nav li a {
+    text-decoration:none;
+    display:block;
+    padding:0.5em 0.7em;
+    border-left:0.4em solid #2D5B4E;
+    color:#2D5B4E;
+    background:#c0c0c0;
+    border-radius:5px;
+}
+ul#main-nav li a:hover {
+    border-left:0.4em solid #2D5B4E;
+    color:#fff;
+    background:#2D5B4E;
+}

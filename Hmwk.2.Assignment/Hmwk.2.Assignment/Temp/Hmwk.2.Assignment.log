@@ -1,0 +1,26 @@
+﻿  C:\Users\Dalalways72\Desktop\Hmwk.2.Assignment\Hmwk.2.Assignment\SDL2\lib\libfreetype-6.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.2.Assignment\Hmwk.2.Assignment\SDL2\lib\libjpeg-9.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.2.Assignment\Hmwk.2.Assignment\SDL2\lib\libpng16-16.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.2.Assignment\Hmwk.2.Assignment\SDL2\lib\libtiff-5.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.2.Assignment\Hmwk.2.Assignment\SDL2\lib\libwebp-4.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.2.Assignment\Hmwk.2.Assignment\SDL2\lib\SDL2.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.2.Assignment\Hmwk.2.Assignment\SDL2\lib\SDL2_image.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.2.Assignment\Hmwk.2.Assignment\SDL2\lib\SDL2_ttf.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.2.Assignment\Hmwk.2.Assignment\SDL2\lib\zlib1.dll
+          9 file(s) copied.
+  engine.cpp
+  Hmwk.2.Assignment.vcxproj -> C:\Users\Dalalways72\Desktop\Hmwk.2.Assignment\Hmwk.2.Assignment\Game\Hmwk.2.Assignment.exe
+  C:\Users\Dalalways72\Desktop\Hmwk.2.Assignment\Hmwk.2.Assignment\libfreetype-6.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.2.Assignment\Hmwk.2.Assignment\libjpeg-9.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.2.Assignment\Hmwk.2.Assignment\libpng16-16.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.2.Assignment\Hmwk.2.Assignment\libtiff-5.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.2.Assignment\Hmwk.2.Assignment\libwebp-4.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.2.Assignment\Hmwk.2.Assignment\SDL2.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.2.Assignment\Hmwk.2.Assignment\SDL2_image.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.2.Assignment\Hmwk.2.Assignment\SDL2_ttf.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.2.Assignment\Hmwk.2.Assignment\zlib1.dll
+          9 file(s) moved.
+  C:\Users\Dalalways72\Desktop\Hmwk.2.Assignment\Hmwk.2.Assignment\Assets\Config\animation.txt -> C:\Users\Dalalways72\Desktop\Hmwk.2.Assignment\Hmwk.2.Assignment\Game\Assets\Config\animation.txt
+  C:\Users\Dalalways72\Desktop\Hmwk.2.Assignment\Hmwk.2.Assignment\Assets\Fonts\impact.ttf -> C:\Users\Dalalways72\Desktop\Hmwk.2.Assignment\Hmwk.2.Assignment\Game\Assets\Fonts\impact.ttf
+  C:\Users\Dalalways72\Desktop\Hmwk.2.Assignment\Hmwk.2.Assignment\Assets\Images\link.png -> C:\Users\Dalalways72\Desktop\Hmwk.2.Assignment\Hmwk.2.Assignment\Game\Assets\Images\link.png
+  3 File(s) copied

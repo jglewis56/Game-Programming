@@ -1,0 +1,36 @@
+﻿  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution.Spring.2016\SDL2\dlls\libfreetype-6.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution.Spring.2016\SDL2\dlls\libjpeg-9.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution.Spring.2016\SDL2\dlls\libpng16-16.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution.Spring.2016\SDL2\dlls\libtiff-5.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution.Spring.2016\SDL2\dlls\libwebp-4.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution.Spring.2016\SDL2\dlls\SDL2.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution.Spring.2016\SDL2\dlls\SDL2_image.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution.Spring.2016\SDL2\dlls\SDL2_ttf.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution.Spring.2016\SDL2\dlls\zlib1.dll
+          9 file(s) copied.
+  GUI.cpp
+c:\users\administrator\google drive\teaching\cpsc 2377\spring 2016\homework\visual studio files\hmwk.4.solution.spring.2016\source\gui.cpp(347): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+c:\users\administrator\google drive\teaching\cpsc 2377\spring 2016\homework\visual studio files\hmwk.4.solution.spring.2016\source\gui.cpp(358): warning C4244: 'argument' : conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  Compiling...
+  hmwk.4.cpp
+  Generating Code...
+  Hmwk.4.Solution.Spring.2016.vcxproj -> C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution.Spring.2016\Game\Hmwk.4.Solution.Spring.2016.exe
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution.Spring.2016\libfreetype-6.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution.Spring.2016\libjpeg-9.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution.Spring.2016\libpng16-16.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution.Spring.2016\libtiff-5.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution.Spring.2016\libwebp-4.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution.Spring.2016\SDL2.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution.Spring.2016\SDL2_image.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution.Spring.2016\SDL2_ttf.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution.Spring.2016\zlib1.dll
+          9 file(s) moved.
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution.Spring.2016\Assets\Config\animation.txt -> C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution.Spring.2016\Game\Assets\Config\animation.txt
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution.Spring.2016\Assets\Config\level.txt -> C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution.Spring.2016\Game\Assets\Config\level.txt
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution.Spring.2016\Assets\Config\level[Conflict].txt -> C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution.Spring.2016\Game\Assets\Config\level[Conflict].txt
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution.Spring.2016\Assets\Fonts\impact.ttf -> C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution.Spring.2016\Game\Assets\Fonts\impact.ttf
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution.Spring.2016\Assets\Images\block.png -> C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution.Spring.2016\Game\Assets\Images\block.png
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution.Spring.2016\Assets\Images\deeler.png -> C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution.Spring.2016\Game\Assets\Images\deeler.png
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution.Spring.2016\Assets\Images\link.png -> C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution.Spring.2016\Game\Assets\Images\link.png
+  7 File(s) copied

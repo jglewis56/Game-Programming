@@ -1,0 +1,40 @@
+﻿  C:\Users\Dalalways72\Desktop\Hmwk.3.Assignment\SDL2\lib\libfreetype-6.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.3.Assignment\SDL2\lib\libjpeg-9.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.3.Assignment\SDL2\lib\libpng16-16.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.3.Assignment\SDL2\lib\libtiff-5.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.3.Assignment\SDL2\lib\libwebp-4.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.3.Assignment\SDL2\lib\SDL2.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.3.Assignment\SDL2\lib\SDL2_image.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.3.Assignment\SDL2\lib\SDL2_ttf.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.3.Assignment\SDL2\lib\zlib1.dll
+          9 file(s) copied.
+  engine.cpp
+c:\users\dalalways72\desktop\hmwk.3.assignment\source\engine.cpp(34): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+c:\users\dalalways72\desktop\hmwk.3.assignment\source\engine.cpp(37): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+c:\users\dalalways72\desktop\hmwk.3.assignment\source\engine.cpp(41): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  Link.cpp
+c:\users\dalalways72\desktop\hmwk.3.assignment\source\link.cpp(12): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\dalalways72\desktop\hmwk.3.assignment\source\link.cpp(80): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+c:\users\dalalways72\desktop\hmwk.3.assignment\source\link.cpp(197): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+c:\users\dalalways72\desktop\hmwk.3.assignment\source\link.cpp(201): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  Block.cpp
+c:\users\dalalways72\desktop\hmwk.3.assignment\source\block.cpp(34): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+c:\users\dalalways72\desktop\hmwk.3.assignment\source\block.cpp(39): warning C4244: 'return': conversion from 'const float' to 'int', possible loss of data
+  Generating Code...
+  Hmwk.3.Assignment.vcxproj -> C:\Users\Dalalways72\Desktop\Hmwk.3.Assignment\Game\Hmwk.3.Assignment.exe
+  C:\Users\Dalalways72\Desktop\Hmwk.3.Assignment\libfreetype-6.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.3.Assignment\libjpeg-9.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.3.Assignment\libpng16-16.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.3.Assignment\libtiff-5.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.3.Assignment\libwebp-4.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.3.Assignment\SDL2.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.3.Assignment\SDL2_image.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.3.Assignment\SDL2_ttf.dll
+  C:\Users\Dalalways72\Desktop\Hmwk.3.Assignment\zlib1.dll
+          9 file(s) moved.
+  C:\Users\Dalalways72\Desktop\Hmwk.3.Assignment\Assets\Config\animation.txt -> C:\Users\Dalalways72\Desktop\Hmwk.3.Assignment\Game\Assets\Config\animation.txt
+  C:\Users\Dalalways72\Desktop\Hmwk.3.Assignment\Assets\Config\level.txt -> C:\Users\Dalalways72\Desktop\Hmwk.3.Assignment\Game\Assets\Config\level.txt
+  C:\Users\Dalalways72\Desktop\Hmwk.3.Assignment\Assets\Fonts\impact.ttf -> C:\Users\Dalalways72\Desktop\Hmwk.3.Assignment\Game\Assets\Fonts\impact.ttf
+  C:\Users\Dalalways72\Desktop\Hmwk.3.Assignment\Assets\Images\block.png -> C:\Users\Dalalways72\Desktop\Hmwk.3.Assignment\Game\Assets\Images\block.png
+  C:\Users\Dalalways72\Desktop\Hmwk.3.Assignment\Assets\Images\link.png -> C:\Users\Dalalways72\Desktop\Hmwk.3.Assignment\Game\Assets\Images\link.png
+  5 File(s) copied

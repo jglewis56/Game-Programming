@@ -1,0 +1,28 @@
+﻿  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution\SDL2\dlls\libfreetype-6.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution\SDL2\dlls\libjpeg-9.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution\SDL2\dlls\libpng16-16.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution\SDL2\dlls\libtiff-5.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution\SDL2\dlls\libwebp-4.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution\SDL2\dlls\SDL2.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution\SDL2\dlls\SDL2_image.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution\SDL2\dlls\SDL2_ttf.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution\SDL2\dlls\zlib1.dll
+          9 file(s) copied.
+  Hmwk.4.Solution.vcxproj -> C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution\Game\Hmwk.4.Solution.exe
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution\libfreetype-6.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution\libjpeg-9.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution\libpng16-16.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution\libtiff-5.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution\libwebp-4.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution\SDL2.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution\SDL2_image.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution\SDL2_ttf.dll
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution\zlib1.dll
+          9 file(s) moved.
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution\Assets\Config\animation.txt -> C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution\Game\Assets\Config\animation.txt
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution\Assets\Config\level.txt -> C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution\Game\Assets\Config\level.txt
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution\Assets\Fonts\impact.ttf -> C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution\Game\Assets\Fonts\impact.ttf
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution\Assets\Images\block.png -> C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution\Game\Assets\Images\block.png
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution\Assets\Images\megaman.png -> C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution\Game\Assets\Images\megaman.png
+  C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution\Assets\Images\portal.png -> C:\Users\Administrator\Google Drive\Teaching\CPSC 2377\Spring 2016\Homework\Visual Studio Files\Hmwk.4.Solution\Game\Assets\Images\portal.png
+  6 File(s) copied

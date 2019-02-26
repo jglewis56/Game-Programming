@@ -1,0 +1,48 @@
+﻿Build started 2/24/2015 1:42:03 PM.
+     1>Project "C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\Hmwk.2.Solution.vcxproj" on node 2 (Build target(s)).
+     1>PreBuildEvent:
+         copy "C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\SDL2\dlls\*.dll" "C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\"
+         :VCEnd
+         C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\SDL2\dlls\libfreetype-6.dll
+         C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\SDL2\dlls\libjpeg-9.dll
+         C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\SDL2\dlls\libpng16-16.dll
+         C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\SDL2\dlls\libtiff-5.dll
+         C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\SDL2\dlls\libwebp-4.dll
+         C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\SDL2\dlls\SDL2.dll
+         C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\SDL2\dlls\SDL2_image.dll
+         C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\SDL2\dlls\SDL2_ttf.dll
+         C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\SDL2\dlls\zlib1.dll
+                 9 file(s) copied.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\Temp\\" /Fd"C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\Temp\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt Source\engine.cpp
+         engine.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\Game\Hmwk.2.Solution.exe" /INCREMENTAL /NOLOGO SDL2.lib SDL2main.lib SDL2_image.lib SDL2_ttf.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\Game\Hmwk.2.Solution.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\Game\Hmwk.2.Solution.lib" /MACHINE:X86 "C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\Temp\engine.obj"
+         "C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\Temp\GUI.obj"
+         "C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\Temp\hmwk.2.obj"
+         "C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\Temp\Texture.obj"
+         "C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\Temp\Timer.obj"
+         Hmwk.2.Solution.vcxproj -> C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\Game\Hmwk.2.Solution.exe
+       PostBuildEvent:
+         move "C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\*.dll" "C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\Game";
+         xcopy "C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\Assets" "C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\Game\Assets" /E /I /F /Y
+         :VCEnd
+         C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\libfreetype-6.dll
+         C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\libjpeg-9.dll
+         C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\libpng16-16.dll
+         C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\libtiff-5.dll
+         C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\libwebp-4.dll
+         C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\SDL2.dll
+         C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\SDL2_image.dll
+         C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\SDL2_ttf.dll
+         C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\zlib1.dll
+                 9 file(s) moved.
+         C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\Assets\Config\animation.txt -> C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\Game\Assets\Config\animation.txt
+         C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\Assets\Fonts\impact.ttf -> C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\Game\Assets\Fonts\impact.ttf
+         C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\Assets\Images\megaman.png -> C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\Game\Assets\Images\megaman.png
+         3 File(s) copied
+     1>Done Building Project "C:\Users\kabush\Documents\Visual Studio 2012\Projects\CPSC.2377.Hmwks.Spring.2015\Hmwk.2.Solution\Hmwk.2.Solution.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.31
